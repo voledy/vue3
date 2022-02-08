@@ -1,0 +1,8 @@
+{
+    "name": "vue3_viteServer",
+    "dockerComposeFile": "docker-compose.yml",
+    "forwardPorts":[
+        80,
+        8090
+    ]
+}
